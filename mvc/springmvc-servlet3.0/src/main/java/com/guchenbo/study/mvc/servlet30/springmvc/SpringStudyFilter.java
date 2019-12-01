@@ -1,4 +1,4 @@
-package com.guchenbo.study.mvc.springmvc.servlet25;
+package com.guchenbo.study.mvc.servlet30.springmvc;
 
 import org.springframework.web.filter.OncePerRequestFilter;
 

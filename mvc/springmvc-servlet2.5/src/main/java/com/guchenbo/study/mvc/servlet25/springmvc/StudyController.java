@@ -1,4 +1,4 @@
-package com.guchenbo.study.mvc.springmvc.servlet25;
+package com.guchenbo.study.mvc.servlet25.springmvc;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

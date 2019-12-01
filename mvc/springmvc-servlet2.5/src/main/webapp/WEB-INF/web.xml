@@ -30,7 +30,7 @@
 
     <filter>
         <filter-name>study</filter-name>
-        <filter-class>com.guchenbo.study.mvc.springmvc.servlet25.StudyFilter</filter-class>
+        <filter-class>com.guchenbo.study.mvc.servlet25.springmvc.StudyFilter</filter-class>
     </filter>
     <filter-mapping>
         <filter-name>study</filter-name>
