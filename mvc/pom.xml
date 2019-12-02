@@ -6,9 +6,10 @@
     <modules>
         <module>servlet2.5</module>
         <module>servlet3.0</module>
-        <module>springmvc-servlet3.0</module>
-        <module>springboot-servlet3.0</module>
         <module>springmvc-servlet2.5</module>
+        <module>springmvc-servlet3.0</module>
+        <module>springboot-servlet3.0-jar</module>
+        <module>springboot-servlet3.0-war</module>
     </modules>
 
     <parent>
