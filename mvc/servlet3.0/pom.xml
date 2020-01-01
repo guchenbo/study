@@ -11,6 +11,7 @@
 
     <artifactId>servlet3.0</artifactId>
     <packaging>war</packaging>
+    <name>Servlet 3.0</name>
 
     <dependencies>
         <dependency>

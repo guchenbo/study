@@ -23,4 +23,8 @@
         <filter-name>study</filter-name>
         <url-pattern>/*</url-pattern>
     </filter-mapping>
+    
+    <listener>
+        <listener-class>org</listener-class>
+    </listener>
 </web-app>

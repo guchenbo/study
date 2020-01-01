@@ -21,5 +21,6 @@ public class StudyServletContainerInitializer implements ServletContainerInitial
         FilterRegistration.Dynamic filterRegistration2 = ctx.addFilter("studyFilter2", StudyFilter2.class);
         filterRegistration2.addMappingForUrlPatterns(null, true, "/study");
 
+        ctx.addListener(new StudyServletContextListener());
     }
 }

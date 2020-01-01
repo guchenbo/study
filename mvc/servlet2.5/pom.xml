@@ -11,6 +11,7 @@
 
     <artifactId>servlet2.5</artifactId>
     <packaging>war</packaging>
+    <name>Servlet 2.5</name>
 
     <dependencies>
         <dependency>

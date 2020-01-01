@@ -38,6 +38,7 @@
     </filter-mapping>
     
     <filter>
+        <!--filter bean的名字-->
         <filter-name>springStudyFilter</filter-name>
         <filter-class>org.springframework.web.filter.DelegatingFilterProxy</filter-class>
     </filter>

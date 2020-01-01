@@ -11,6 +11,7 @@
 
     <artifactId>springmvc-servlet3.0</artifactId>
     <packaging>war</packaging>
+    <name>Spring MVC Servlet 3.0</name>
 
     <dependencies>
         <dependency>
